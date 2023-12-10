@@ -1,7 +1,7 @@
+<!--
 - 👋 Hi, I’m Aditya
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning Java, C#, Python and SQL
-<!--
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 -->
